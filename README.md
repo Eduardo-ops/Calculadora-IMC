@@ -1,0 +1,1 @@
+Projeto desenvolvido com base em html, css e javascript. Um site que nos da a possibilidade de saber o calculo atual do nosso IMC através de uma calculadora. Link para verificação :https://eduardo-ops.github.io/Calculadora-IMC/
